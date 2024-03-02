@@ -1,0 +1,1 @@
+### Exercícios que fiz durante o curso de Python do curso em Vídeo.
